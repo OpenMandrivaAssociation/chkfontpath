@@ -1,6 +1,6 @@
 %define	name	chkfontpath
 %define	version	1.10.1
-%define	release	%mkrel 6
+%define	release	%mkrel 7
 
 Summary:	Simple interface for editing the font path for the X font server
 Name:		%{name}
