@@ -8,6 +8,7 @@ Version:	%{version}
 Release:	%{release}
 License:	GPLv2+
 Group:		System/X11
+BuildRequires:	make
 BuildRequires:	popt-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source0:	%{name}-%{version}.tar.gz
